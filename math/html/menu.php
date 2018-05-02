@@ -1,0 +1,23 @@
+<div class="w3-content w3-light-grey" style="max-width:1200px;">
+    <div class="smenu w3-bar w3-card-4 w3-padding" style="margin-top:20px;">
+	<a href="/math/" class="w3-bar-item w3-button">Home</a>
+	
+	<div class="w3-dropdown-hover">
+	    <button class="w3-button">Math</button>
+	    <div class="w3-dropdown-content w3-bar-block w3-card-4">
+		<a href="/math/questions/" class="w3-bar-item w3-button">Questions [Test ENV]</a>
+		<a href="/math/design/" class="w3-bar-item w3-button">Design</a>
+		
+
+	    </div>
+	</div>
+	
+	<div class="w3-dropdown-hover">
+	    <button class="w3-button">{ } Username</button>
+	    <div class="w3-dropdown-content w3-bar-block w3-card-4">
+		<a href="/math/profile/" class="w3-bar-item w3-button">Profile</a>
+		<a href="/math/logout/" class="w3-bar-item w3-button">Logout</a>
+	    </div>
+	</div>
+    </div>
+    <div class="w3-container w3-padding">

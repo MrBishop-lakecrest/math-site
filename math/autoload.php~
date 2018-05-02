@@ -1,0 +1,7 @@
+<?php
+
+include 'class/User.php';
+include 'class/Session.php';
+include 'class/view.php';
+include 'class/transactions.php';
+include 'class/transaction.php';

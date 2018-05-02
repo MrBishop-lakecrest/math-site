@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+	<meta charset="utf-8">
+      
+	<title>Sharon</title>
+	<meta name="description" content="Sharon">
+	<meta name="author" content="Matt Barrett">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/sharon/css/w3.css">  
+	<link rel="stylesheet" href="/sharon/css/style.css?v=1.0">
+	<link rel="stylesheet" href="/sharon/css/cal.css">
+	<link rel="stylesheet" href="/sharon/css/font.css">
+      
+	<!--[if lt IE 9]>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" href="/sharon/chart/chartist.min.css">
+	<link rel="stylesheet" href="/sharon/chart/chartist.custom.css">
+	
+	<script src="/sharon/js/jquery.js"></script>
+	<script src="/sharon/js/jquery-ui.js"></script>
+	<script src="/sharon/js/jquery.dataTables.min.js"></script>
+	
+	<link rel="stylesheet" href="/sharon/css/jquery-ui.css">
+	<link rel="stylesheet" href="/sharon/css/jquery.dataTables.min.css">
+
+	
+    </head>
+    <body>
+

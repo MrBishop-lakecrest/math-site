@@ -1,0 +1,82 @@
+
+
+.cal {
+    width: 100%;
+    display: table;
+}
+
+.cal ul {
+    list-style-type: none;
+}
+
+
+.cprev {
+    float: left;    
+    width: 33%;
+}
+
+.cnext {
+    float: left;    
+    width: 33%;
+}
+
+.cal-row {
+    display:table-row;
+    width: 100%;
+}
+
+.cal-day {
+    display:table-cell;
+    vertical-align: top;
+    border-bottom:1px solid #ccc;
+    border-right:1px solid #ccc;
+}
+
+
+.cal-month {
+    text-align: center;
+    height: 50px;
+    line-height: normal;
+}
+
+.cal-month ul {
+    list-style-type: none;
+}
+
+.cal-month .next {
+    float: right;
+    padding-top: 10px;
+}
+
+.cal-month .prev {
+    float: left;
+    padding-top: 10px;
+}
+
+.weekdays {
+    background-color: #ddd;
+}
+
+.weekday {
+    float: left;
+    width: 14.285%;
+    color: #666;
+    background-color: #ddd;
+    text-align: center;
+}
+
+.row {
+    float: left;
+    width: 100%;
+}
+
+
+.c_day {
+   min-height: 100px;
+   float: left;
+   width: 14.285%;
+}
+
+.days {
+    width: 100%;
+}

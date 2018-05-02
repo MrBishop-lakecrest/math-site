@@ -1,0 +1,9 @@
+<?php
+define("CMS_PATH", 'mbarrett.info/sharon/');
+
+define("DB_HOST", 'localhost');
+define("DB_USER", 'mbarrett');
+define("DB_PASS", 'bish0p');
+define("DB_NAME", 'sharron');
+
+$dsn = 'mysql:dbname=sharron;host=localhost';
